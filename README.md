@@ -1,6 +1,4 @@
-![Image of the screen output of the program.]([image_url](https://github.com/w0rld/ParseADI/blob/main/Log_Parser_Display.png))
-
-
+<img src='./Log_Parser_Display.png' width=60%>
 
 This program will parse a ham radio log file in the ADI format to show logged but unconfirmed contacts in a particular band. The list maybe printed or saved to a file. It requires python3.
 
