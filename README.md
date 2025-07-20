@@ -1,4 +1,4 @@
-![Image of the screen output of the program.](image_url)
+![Image of the screen output of the program.]([image_url](https://github.com/w0rld/ParseADI/blob/main/Log_Parser_Display.png))
 
 
 
