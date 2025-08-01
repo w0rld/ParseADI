@@ -14,4 +14,4 @@ Put the the program your home/bin directory, make it executable, in terminal win
 
 It is particularly useful in listing DXCC countries within a particular band that are not confirmed so that you can seek confirmation.
 
-This version of the program added a confirmation for received paper QSL cards, which is entered in QLog. The only country so far in 12m with a paper QSL card is Namibia (highlighted) where the listing shows QSL-RCVD = Y. This is useful information because ARRL's Logbook Of The World (LOTW) shows only electronic log confirmations. The program now keeps track of total confirmations, electronic OR paper.
+This version of the program added a confirmation for received paper QSL cards, which is entered in QLog. The only country so far in 12m with a paper QSL card is Namibia (highlighted) where the listing shows QSL-RCVD = Y. This is useful information because ARRL's Logbook Of The World (LOTW) shows only electronic log confirmations. The program now keeps track of total confirmations, electronic OR paper. For example, the text in the bottom frame shows 91 confirmed countries, while LOTW shows 90.
